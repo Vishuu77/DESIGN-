@@ -1,0 +1,21 @@
+﻿{
+  "project": "Venttup B2B Industrial Enclosure Localization",
+  "lead_engineer": "Er. Vishnu Ramachandra",
+  "cad_software": "Autodesk Fusion 360",
+  "standards": "ASME Y14.5M / IS 513",
+  "chassis_dimensions_mm": {
+    "length": 340.0,
+    "width": 260.0,
+    "height": 140.0,
+    "sheet_gauge": "1.6mm (16 Gauge CRCA)",
+    "k_factor": 0.44,
+    "internal_bend_radius": 1.6
+  },
+  "ip_rating": "IP65 (Silicone Cord / Neoprene Tongue-and-Groove)",
+  "finish": "Electrostatically applied thermoset polyester powder coating (RAL 7035, 70-80 microns)",
+  "mounting_inserts": [
+    { "type": "PEM Clinch Stud", "thread": "M4x0.7", "qty": 8 },
+    { "type": "PEM Clinch Nut", "thread": "M3x0.5", "qty": 12 }
+  ],
+  "domestic_sourcing_status": "100% Domestic Indian Supplier Validated (Peenya / Bommasandra Industrial Clusters)"
+}

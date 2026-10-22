@@ -1,0 +1,7 @@
+﻿PartNo,Description,Material,Quantity,UnitWeightKg,ProcessCostINR,SupplierTier
+VV-ENC-001,Sheet Metal Main Chasis,CRCA Steel (IS 513),1,3.450,420.0,Tier 1
+VV-ENC-002,Top Access Service Lid,Aluminum 5052-H32,1,0.850,210.0,Tier 1
+VV-MCH-010,Precision Actuator Mounting Flange,Aluminum 6061-T6,2,0.420,380.0,Tier 2
+VV-PIN-022,Hardened Dowel Guide Pin,SS304 Stainless Steel,4,0.060,95.0,Tier 2
+VV-GSK-005,Neoprene IP65 Continuous Gasket,Delrin / POM,1,0.120,140.0,Tier 2
+VV-BRG-012,Brass Bushing Sleeve,Brass IS 319,2,0.080,180.0,Tier 3

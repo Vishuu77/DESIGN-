@@ -1,0 +1,21 @@
+﻿{
+  "material_bend_parameters": {
+    "CRCA_IS_513": [
+      { "thickness_mm": 1.0, "internal_radius_mm": 1.0, "k_factor": 0.42, "bend_deduction_90deg_mm": 1.75 },
+      { "thickness_mm": 1.2, "internal_radius_mm": 1.2, "k_factor": 0.43, "bend_deduction_90deg_mm": 2.10 },
+      { "thickness_mm": 1.6, "internal_radius_mm": 1.6, "k_factor": 0.44, "bend_deduction_90deg_mm": 2.80 },
+      { "thickness_mm": 2.0, "internal_radius_mm": 2.0, "k_factor": 0.45, "bend_deduction_90deg_mm": 3.50 },
+      { "thickness_mm": 3.0, "internal_radius_mm": 3.0, "k_factor": 0.46, "bend_deduction_90deg_mm": 5.20 }
+    ],
+    "AL_5052_H32": [
+      { "thickness_mm": 1.0, "internal_radius_mm": 1.5, "k_factor": 0.40, "bend_deduction_90deg_mm": 2.15 },
+      { "thickness_mm": 1.5, "internal_radius_mm": 2.0, "k_factor": 0.42, "bend_deduction_90deg_mm": 3.10 },
+      { "thickness_mm": 2.0, "internal_radius_mm": 2.5, "k_factor": 0.43, "bend_deduction_90deg_mm": 4.10 }
+    ],
+    "SS_304": [
+      { "thickness_mm": 1.0, "internal_radius_mm": 1.2, "k_factor": 0.45, "bend_deduction_90deg_mm": 1.95 },
+      { "thickness_mm": 1.5, "internal_radius_mm": 1.8, "k_factor": 0.46, "bend_deduction_90deg_mm": 2.95 },
+      { "thickness_mm": 2.0, "internal_radius_mm": 2.5, "k_factor": 0.47, "bend_deduction_90deg_mm": 3.90 }
+    ]
+  }
+}
